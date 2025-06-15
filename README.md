@@ -1,4 +1,4 @@
-![I am arif-bin-shofi(https://github.com/harun181/harun181/blob/main/code.png)
+I am arif-bin-shofi(https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Arif Bin Shofi</h1>
 <h3 align="center">Mobile app developer from Bangladesh</h3>
